@@ -1,0 +1,22 @@
+.outer{
+    height: 500px; 
+    width: auto;
+}
+
+.inner{
+    position:absolute;
+    left: auto;
+    top: auto;
+    height: 500px; 
+    width: 800px;
+    z-index: 1;
+}
+
+.inner2{
+    position: absolute;;
+    left:auto;
+    top:auto;
+    height: 500px; 
+    width: 800px;
+    z-index: 2;
+}
